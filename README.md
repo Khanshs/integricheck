@@ -45,7 +45,7 @@ Enter file or folder path: ./File_Integrity
 ```bash
 integricheck/
 │
-├── File_Integrity/              # Test files for checking integrity (can add more files
+├── File_Integrity/              # Test files for checking integrity (can add more files)
 │   ├── test1.txt
 │   ├── test2.txt
 │   └── text3.bat
