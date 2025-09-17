@@ -8,6 +8,7 @@
 ---
 
 A simple Python-based file integrity checker for learning and practice.  
+Input a directory to any file or any folder to hashing the file 
 Users can calculate file hashes, log results, and verify integrity of files against stored records.  
 This helps detect file modifications, corruption, or tampering.  
 
