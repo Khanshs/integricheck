@@ -54,6 +54,7 @@ def write_hash_record(file_path, file_hash):
         return
 
     record = {
+        "file_name": os.path.basename(file_path),
         "file": file_path,
         "sha256": file_hash,
         "timestamp": datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
